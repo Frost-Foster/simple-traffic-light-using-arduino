@@ -1,5 +1,5 @@
 #include <Arduino.h>
-int red = 12 , yellow = 13 , green = 14  , del = 2000 ;
+int red = 12 , yellow = 11 , green = 10  , del = 2000 ;
 
 void setup() {
   // put your setup code here, to run once:
